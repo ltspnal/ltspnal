@@ -1,4 +1,4 @@
-# Hi there, I'm ltspnal! 👋
+# Hi there, I'm Alex! 👋
 
 **I'm a developer passionate about JavaScript, Python, Django, and Node.js.**
 
