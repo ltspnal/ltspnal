@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm ltspnal! 👋
 
-<!--
-**ltspnal/ltspnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a developer passionate about JavaScript, Python, Django, and Node.js.**
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: JavaScript, Python
+- **Frameworks**: Django, React, Node.js
+
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltspnal&show_icons=true&theme=dracula)
+
+## 📫 How to Reach Me
+
+- [Email](al.latsapniou@gmail.com)
