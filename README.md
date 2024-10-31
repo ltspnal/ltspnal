@@ -2,7 +2,7 @@
 
 **I'm a developer passionate about JavaScript, Python, Django, and Node.js.**
 
-## 🛠️ My Skills
+## 🛠️ My Basic Skills
 
 - **Programming Languages**: JavaScript, Python
 - **Frameworks**: Django, React, Node.js
