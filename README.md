@@ -5,7 +5,7 @@
 ## 🛠️ My Basic Skills
 
 - **Programming Languages**: JavaScript, Python
-- **Frameworks**: Django, React, Node.js
+- **Frameworks**: Django, React
 
 ## 📊 GitHub Stats
 
